@@ -3,7 +3,7 @@ export default defineAppConfig({
     title: 'Khaledstudios',
     description: 'The Personal Portfolio of Khaled Dostzada',
     image: {
-      src: '/social-card-preview.png',
+      src: '/header.jpeg',
       alt: 'An image showcasing my project.',
       width: 400,
       height: 300
