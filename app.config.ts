@@ -19,7 +19,7 @@ export default defineAppConfig({
     footer: {
       credits: {
         // possible value are : true | false
-        enabled: false,
+        enabled: true,
 
         // our github repository
         repository: 'https://www.github.com/nuxt-themes/alpine',
@@ -31,7 +31,7 @@ export default defineAppConfig({
       message: 'Follow me on' // string that will be displayed in the footer (leave empty or delete to disable)
     },
     socials: {
-      twitter: '',
+      twitter: '@testing',
       instagram: 'khaleddost',
 
       linkedin: {
